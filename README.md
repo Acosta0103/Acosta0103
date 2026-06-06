@@ -1,8 +1,6 @@
 # Juan Alberto Acosta Oduardo
 
 <div align="center">
-  <img src="visa_photo.jpeg" alt="Juan Alberto Acosta Oduardo" width="120" height="120" style="border-radius: 50%; object-fit: cover; border: 1px solid #cbd5e1;">
-  <p></p>
   
   📱 **+598 94 025 464** &nbsp;|&nbsp; ✉️ [acostaoduardoj@gmail.com](mailto:acostaoduardoj@gmail.com) &nbsp;|&nbsp; 📍 **Montevideo, Uruguay**
   
