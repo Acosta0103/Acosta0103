@@ -29,7 +29,7 @@ Software Engineer with 1+ years of technical experience bridging the gap between
 
 ## 🎓 Education
 
-### **Universidad de Oriente, Cuba** | *Cuba*
+### **Universidad de Oriente** | *Cuba*
 **B.Sc., Computer Science** | *Present*
 
 ---
