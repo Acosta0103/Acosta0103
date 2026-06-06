@@ -1,7 +1,8 @@
 # Juan Alberto Acosta Oduardo
+**Software Engineer** &nbsp;|&nbsp; **Computer Scientist**
 
-<div align="center">
-  
+<div align="left">
+
   📱 **+598 94 025 464** &nbsp;|&nbsp; ✉️ [acostaoduardoj@gmail.com](mailto:acostaoduardoj@gmail.com) &nbsp;|&nbsp; 📍 **Montevideo, Uruguay**
   
   🔗 [LinkedIn](https://www.linkedin.com/in/jacosta0103) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/Acosta0103)
