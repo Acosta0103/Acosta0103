@@ -18,7 +18,7 @@ Software Engineer with 1+ years of technical experience bridging the gap between
 ## 💼 Work Experience
 
 ### **Saturnino Lora Provincial Hospital** | *Santiago de Cuba, Cuba*
-**Lead Developer & Researcher (B.Sc. Thesis)** | *DEC 2022 - Present*
+**Lead Developer & Researcher (B.Sc. Thesis)** | *JANUARY 2025 - JULY 2025*
 * Build and maintain a high-performance Python-based software ecosystem for medical image processing and automated diagnosis, supporting critical healthcare infrastructure.
 * Develop and optimize deep learning models natively within PyTorch and TensorFlow, achieving a 5/5 highest honor grade for technical implementation and model benchmarking.
 * Enhance system scalability by implementing Clean Architecture principles to decouple core AI logic from inference frameworks, facilitating future integration with cloud infrastructure.
@@ -30,7 +30,7 @@ Software Engineer with 1+ years of technical experience bridging the gap between
 ## 🎓 Education
 
 ### **Universidad de Oriente** | *Cuba*
-**B.Sc., Computer Science** | *Present*
+**B.Sc., Computer Science** | *2021 - 2025*
 
 ---
 
