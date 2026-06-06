@@ -62,6 +62,3 @@ Designed and developed a Python-based software ecosystem for medical image proce
 * 🔹 PyTorch
 * 🔹 TensorFlow
 * 🔹 FastAPI
-
-### 🏆 Project Honors
-* **Grade:** 5/5 (Highest honors)
