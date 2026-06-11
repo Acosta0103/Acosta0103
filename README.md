@@ -11,7 +11,7 @@
 ---
 
 ## 📝 Summary
-Software Engineer with 1+ years of technical experience bridging the gap between AI engineering and scalable infrastructure. Expert in building high-performance systems using Python, FastAPI, and Modern Web Technologies including HTML and CSS. Proven track record of developing complex computer vision models and deploying them via Clean Architecture for high-stakes medical environments.
+Software Engineer with 2+ years of technical experience bridging the gap between AI engineering and scalable infrastructure. Expert in building high-performance systems using Python, FastAPI, and Modern Web Technologies including HTML and CSS. Proven track record of developing complex computer vision models and deploying them via Clean Architecture for high-stakes medical environments.
 
 ---
 
@@ -39,7 +39,7 @@ Software Engineer with 1+ years of technical experience bridging the gap between
 | Category | Technologies & Concepts |
 | :--- | :--- |
 | **Backend & Infrastructure** | Python, FastAPI, Go, Docker, Distributed Computing, Continuous Integration, Git/GitHub, SQL (PostgreSQL, MySQL, SQLite), REST APIs |
-| **Frontend & Full-Stack** | JavaScript, HTML, CSS, Clean Architecture |
+| **Frontend & Full-Stack** | React, JavaScript, HTML, CSS, Clean Architecture |
 | **AI & Machine Learning** | PyTorch, TensorFlow, Deep Learning, Computer Vision, NumPy, Algorithm Design |
 | **Foundational CS** | Data Structures, C++, Compiler Theory, OOP, Database Normalization |
 
