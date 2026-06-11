@@ -17,7 +17,7 @@ Software Engineer with 1+ years of technical experience bridging the gap between
 
 ## 💼 Work Experience
 
-### **Center of Medical Biophisics** | *Santiago de Cuba, Cuba*
+### **Medical Biophysics Center** | *Santiago de Cuba, Cuba*
 **Lead Developer & Researcher** | *JANUARY 2025 - JULY 2025*
 * Build and maintain a high-performance Python-based software ecosystem for medical image processing and automated diagnosis, supporting critical healthcare infrastructure.
 * Develop and optimize deep learning models natively within PyTorch and TensorFlow.
