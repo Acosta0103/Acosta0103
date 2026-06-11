@@ -17,20 +17,20 @@ Software Engineer with 1+ years of technical experience bridging the gap between
 
 ## 💼 Work Experience
 
-### **Saturnino Lora Provincial Hospital** | *Santiago de Cuba, Cuba*
-**Lead Developer & Researcher (B.Sc. Thesis)** | *JANUARY 2025 - JULY 2025*
+### **Center of Medical Biophisics** | *Santiago de Cuba, Cuba*
+**Lead Developer & Researcher** | *JANUARY 2025 - JULY 2025*
 * Build and maintain a high-performance Python-based software ecosystem for medical image processing and automated diagnosis, supporting critical healthcare infrastructure.
-* Develop and optimize deep learning models natively within PyTorch and TensorFlow, achieving a 5/5 highest honor grade for technical implementation and model benchmarking.
-* Enhance system scalability by implementing Clean Architecture principles to decouple core AI logic from inference frameworks, facilitating future integration with cloud infrastructure.
+* Develop and optimize deep learning models natively within PyTorch and TensorFlow.
+* Enhance system scalability by implementing Clean Architecture principles to decouple core AI logic from inference frameworks.
 * Maintain high-speed data ingestion pipelines using FastAPI to process patient data and deliver real-time model inference for clinical decision support.
-* Collaborate with medical professionals to bridge complex AI engineering needs with practical hospital requirements, ensuring 100% alignment with public health standards.
+* Collaborate with medical professionals to bridge complex AI engineering needs with practical medical center requirements.
 
 ---
 
 ## 🎓 Education
 
-### **Universidad de Oriente** | *Cuba*
-**B.Sc., Computer Science** | *2021 - 2025*
+### **B.Sc., Computer Science** | 2021 - 2025
+**Universidad de Oriente** | **Cuba**
 
 ---
 
@@ -39,7 +39,7 @@ Software Engineer with 1+ years of technical experience bridging the gap between
 | Category | Technologies & Concepts |
 | :--- | :--- |
 | **Backend & Infrastructure** | Python, FastAPI, Go, Docker, Distributed Computing, Continuous Integration, Git/GitHub, SQL (PostgreSQL, MySQL, SQLite), REST APIs |
-| **Frontend & Full-Stack** | React, JavaScript, HTML, CSS, Clean Architecture |
+| **Frontend & Full-Stack** | JavaScript, HTML, CSS, Clean Architecture |
 | **AI & Machine Learning** | PyTorch, TensorFlow, Deep Learning, Computer Vision, NumPy, Algorithm Design |
 | **Foundational CS** | Data Structures, C++, Compiler Theory, OOP, Database Normalization |
 
@@ -50,16 +50,3 @@ Software Engineer with 1+ years of technical experience bridging the gap between
 * **English:** Intermediate
 
 ---
-
-## 🚀 Projects
-
-### **Stroke Detection and Classification Software**
-*B.Sc. Thesis Lead Developer & Researcher*
-
-Designed and developed a Python-based software ecosystem for medical image processing and computer-aided diagnosis of strokes, in collaboration with the Public Health System at the Saturnino Lora Provincial Hospital. Trained, evaluated, and benchmarked multiple Deep Learning models natively using PyTorch and TensorFlow environments. Implemented Clean Architecture principles to fully decouple business logic from training frameworks. Developed a high-performance API using FastAPI for efficient patient data ingestion and real-time model inference processing.
-
-**Tech Stack:**
-* 🔹 Python
-* 🔹 PyTorch
-* 🔹 TensorFlow
-* 🔹 FastAPI
