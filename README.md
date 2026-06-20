@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Alberto Acosta Oduardo 👋
+# ¡Hola! Soy Juan Alberto Acosta Oduardo 👋 
 
 ### Desarrollador Backend Junior & Científico de la Computación 🚀
 
